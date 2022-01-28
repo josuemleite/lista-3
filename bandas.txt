@@ -1,0 +1,25 @@
+6
+Titans
+Rock
+4
+1
+Metallica
+Metal
+5
+1
+Molejo
+Pagode
+100
+3
+Pitty
+Rock
+6
+1
+Megadeth
+Heavy Metal
+3
+5
+Stryper
+White Metal
+5
+3
